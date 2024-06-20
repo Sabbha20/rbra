@@ -1,0 +1,7 @@
+workspace = { members = ["memory_management"] }
+[package]
+name = "RBRA"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
